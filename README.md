@@ -1,3 +1,6 @@
 # validadores
 t06_CAJO.ALFARO
-tra
+trabajo06 de programacion
+integrantes
+cajo rafaelhenrry jefferson
+alfaro crespo piero renato
